@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mark-097
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in learning programming languages and looking forward to make my own language
+- 🌱 I’ve learnt Python and currently I'm learning C++
 - 💞️ I’m looking to collaborate on making of new softwares just to gain some experience, learning and for training purposes.
 - 📫 How to reach me DM me in Discord or reach me at nishantkn09072004@gmail.com
 
