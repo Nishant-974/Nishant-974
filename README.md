@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nishant
-- 👀 I’m interested in learning programming languages and making the world a better place with it.
-- 🌱 I’ve learnt Python and currently I'm learning C++
-- 💞️ I’m looking to collaborate on making of new softwares just to gain some experience, learning and for training purposes.
-- 📫 How to reach me DM me in Discord or reach me at nishantkn09072004@gmail.com
+- 👀 I am interested in acquiring knowledge of languages and various data analysis tools.
+- 🌱 I have learned Python, C++, and Microsoft Excel, and I am currently studying SQL with Tableau.
+- 💞️ I am seeking opportunities to collaborate on new projects to advance my career and acquire practical knowledge.
+- 📫 How to reach me: DM me in Discord, LinkedIn, or reach me here www.instagram.com/user/kneeshawntt
 
 <!---
 Mark-097/Mark-097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
