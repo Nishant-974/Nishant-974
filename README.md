@@ -1,8 +1,8 @@
-- 👋 Hello, I am Nishant, currently pursuing a Master's in Operational Research from the University of Delhi.<br/>
-- 👀 I am interested in acquiring knowledge of various programming languages and data analysis tools.<br/>
-- 🌱 I have learned Python, C++, and Microsoft Excel, and I am currently learning SQL, PowerBI.<br/>
-- 💞️ I am seeking opportunities to collaborate on new projects to advance my career and acquire practical knowledge.<br/>
-- 📫 How to reach me: DM me in Discord, LinkedIn, or reach me here https://www.instagram.com/kneeshawntt/
+-  Hello, I am Nishant, currently pursuing a Master's in Operational Research from the University of Delhi.<br/>
+-  I am interested in acquiring knowledge of various programming languages and data analysis tools.<br/>
+-  I have learned Python, C++, and Microsoft Excel, and I am currently learning SQL, PowerBI.<br/>
+-  I am seeking opportunities to collaborate on new projects to advance my career and acquire practical knowledge.<br/>
+-  How to reach me: DM me in Discord, LinkedIn, or reach me here https://www.instagram.com/kneeshawntt/
 
 
 
